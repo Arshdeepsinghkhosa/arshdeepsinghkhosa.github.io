@@ -2,19 +2,17 @@
 layout: page
 title: ""
 ---
-<p align="center">
-  <img width="300" height="420" src="unnamed.jpg">
+<p align="left">
+  <img width="200" height="280" src="20210313_115737.jpg">
 </p>
 
 ## Bio ##
+I'm working as a Research Associate at the [ICAR-National Institute of Agricultural Economics and Policy Research](https://niap.icar.gov.in/), New Delhi, India. 
 
-  I am an Associate Scientist – Environmental and Resource Economist in the Sustainable Agrifood Systems (SAS) Program at the [International Maize and Wheat Improvement Center (CIMMYT)](https://www.cimmyt.org/), based at the CIMMYT office on the ICRISAT campus in Hyderabad, India.
-  
-  Previously, I worked as a Post-Doctoral Fellow – Environmental and Resource Economist at CIMMYT for two years. Before that, I was a Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), the Government of India's apex public policy think tank. I also served as a Consultant – Dairy Market for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
-  
-  I hold a Ph.D. from the ICAR-National Dairy Research Institute, Karnal, Haryana, India. My doctoral research focused on the Impact Evaluation of an Anionic Mineral Mixture Supplementation on Milk Production and Milk Fever: a randomized controlled trial (link). I earned a B.Sc. (Agriculture) from the University of Agricultural Sciences, Bengaluru (2012), and an M.Sc. (Agri) in Agricultural Economics from the University of Agricultural Sciences, Raichur (2016).
+  I hold a Ph.D. degree in Agricultural Economics from the [Punjab Agricultural University](http://pau.edu/), Ludhiana, Punjab, India. The title of my Ph.D. dissertation was "Maize Production in Punjab: Competitiveness and Future Outlook". Prior to my doctoral studies, I earned an M. Sc. (Agri) in Agricultural Economics from the [CSK Himachal Pradesh Agriculture University](http://hillagric.ac.in/indexold.htm), Palampur (H.P.) in 2019 and a B.Sc. in Agriculture degree from the [Punjab Agricultural University](http://pau.edu/), Ludhiana (Punjab) in 2017.
 
-  My research focuses on the economics of carbon farming, agricultural carbon credit markets, and sustainable agriculture. I examine the financial viability of carbon crediting projects in India, assessing their impact on greenhouse gas emissions, farm incomes, and socio-economic inclusivity​​. I am particularly interested in the trade-offs between agricultural productivity and emissions reduction, as well as in policies that enhance the effectiveness and fairness of carbon markets. My work also explores strategies to optimize cropping systems to reduce emissions intensity while maintaining food security and rural livelihoods.
+   
+My research interests include climate change, climate variability, climate resilience, GHG emissions, carbon footprint, carbon budgeting, water footprint, agricultural marketing, marketing channels, value chain analysis, Economics of agriculture & allied activities, Labour utilization & productivity, Sustainable agrifood system (SAS), organic farming, sustainable agriculture system, Sustainable water management, water scarcity, agricultural policy evaluation.
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)

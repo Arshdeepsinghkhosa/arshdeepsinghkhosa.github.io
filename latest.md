@@ -2,46 +2,30 @@
 layout: page
 title: "Latest research"
 ---
-# Research in CIMMYT #
+# Research paper #
 
-Sl. No.| Title | Year | Outlet | Link
------------- | ------------- | ------------ | ------------- | -------------
-1. | On Biodiversity-Inclusive Carbon Crediting in Agriculture: Insights from Crop Residue Burning | 2025 | Environmental Research Letters | [Open access](https://iopscience.iop.org/article/10.1088/1748-9326/ae2492)
-2. | Understanding Farmers’ Trust in Stakeholders of Carbon Credit Projects:  A Perception-Based Analysis | 2025 | Current Research in Environmental Sustainability | [Open access](https://www.sciencedirect.com/science/article/pii/S2666049025000404)
-3. | Ensure safeguards for India’s carbon market | 2025 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/ensure-safeguards-for-indias-carbon-market/article70171739.ece) [Open access](https://www.researchgate.net/publication/396788002_Comment_Ensure_safeguards_for_India's_carbon_market)
-4. | Crop burning’s biodiversity crisis | 2025 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/crop-burnings-biodiversity-crisis/article69906890.ece)  [Open access](https://www.researchgate.net/publication/394419299_Opinion_in_The_Hindu_BusinessLine_Biodiversity_Crisis)
-5. | Agrobiodiversity impacts matter in crop residue management policies | 2025 | CIMMYT Policy Brief | [Open access](https://hdl.handle.net/10883/35765)
-6. | Agroecological impacts of crop residue burning: A qualitative systematic review of direct and inferred evidence | 2025 | Science of The Total Environment | [Restricted access](https://www.sciencedirect.com/science/article/abs/pii/S0048969725016031)
-7. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html) [Open access](https://raw.githubusercontent.com/adeeth07/adeeth07.github.io/master/assets/Cariappa_2025_EPW_Towards_a_robust_VCM.pdf)
-8. | The digital landscape in Eastern India: Findings from the digital needs assessment surveys from Bihar and Odisha, India | 2024 | CGIAR | [Open access](https://cgspace.cgiar.org/items/6fc0913b-28f5-42b9-8eac-bc98b0df0d37)
-9. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
-10. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
-11. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
-12. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
-13. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
-14. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
-15. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
-16. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
-17. | Carbon farming in India: Case studies from Maharashtra and Telangana | 2023 | CGIAR | [Open access](https://cgspace.cgiar.org/handle/10568/134967)
+**Sl. No.| Year | Title | Outlet | Link**
+----------|-------|--------|---------|--------
+1.|2021|Changing dynamics of cropping pattern and constraints perceived by the vegetable growers in Himachal Pradesh|Indian Journal of Economics and Development|[open access](https://www.researchgate.net/publication/372907571_Changing_Dynamics_of_Cropping_Pattern_and_Constraints_Perceived_by_the_Vegetable_Growers_in_Himachal_Pradesh)
+2.|2022|Economic viability of organic crops in Himachal Pradesh|Journal of Community Mobilization and Sustainable Development|[open access](https://www.indianjournals.com/ijor.aspx?target=ijor:jcmsd&volume=17&issue=1&article=011&type=pdf)
+3.|2022|Status of organic farming and economics of organic vegetable cultivation in Himachal Pradesh under Prampragat Krishi Vikas Yojana (PKVY)|Indian Journal of Hill Farming|[open access](http://www.icarneh.ernet.in/IAHF/volume_35%20issue%201%20June%202022/17..pdf)
+4.|2022|Understanding the perception, constraints and reasons for the adoption of organic farming|Indian Research Journal of Extension Education|[open access](https://seea.org.in/uploads/pdf/2022-73-110-117.pdf)
+5.|2022|Economic assessment and labour utilization of organic kidney beans and black gram|Indian Research Journal of Extension Education|[open access](https://seea.org.in/uploads/pdf/2022-70-44-50.pdf)
+6.|2022|Understanding sustenance of small farm holders: A study of income equality among farm households in Indian Punjab|Sustainability|[open access](https://www.mdpi.com/2071-1050/14/20/13438)
+7.|2022|Factors affecting the production of major pulse crops in Madhya Pradesh|Journal of Crop and Weed|[open access](https://www.cropandweed.com/archives/2022/vol18issue3/18-3-1.pdf)
+8.|2022|Profitability, resource use efficiency and technical efficiency of organic crops in Himachal Pradesh, India|International Journal of Environmental Studies|[restricted access](https://www.tandfonline.com/doi/full/10.1080/00207233.2022.2037337)
+9.|2023|Profitability and resource-use efficiency in vegetable cultivation in Hamirpur district of Himachal Pradesh|Agricultural Research Journal|[open access](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=60&issue=4&article=019&type=pdf)
+10.|2024|An analysis of long-term and short-term impact of climate change on rice production in India|China Agricultural Economic Review|[open access](https://www.emerald.com/insight/content/doi/10.1108/CAER-07-2023-0179/full/html)
+11.|2024|Decomposition Analysis of Maize Production Trends in India: A State-wise Profile|Indian Journal of Economics and Development|[restricted access](https://doi.org/10.35716/IJED-24094)
+12.|2024|Farm Labour Productivity of Major Crops of Punjab| Journal of Agricultural Development and Policy| [open access](https://www.isadp.in/journal_article/264)
+13.|2024|Examining the Impact of Climate Change on Cereal Production in India: Empirical evidence from ARDL modelling approach| Heliyon| [open access](https://doi.org/10.1016/j.heliyon.2024.e36403)
+14.|2024|Decomposition of Changing Maize Production Profile in Indian States| Indian Journal of Economics and Development| [open access](https://doi.org/10.35716/IJED-24094)
+15.|2025|Trends and determinants of total factor productivity in Potato: evidence from India| Agricultural Research Journal|[restricted access](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=62&issue=2&article=005)
+# Book chapters #
 
-# Before CIMMYT #
+**Sl. No.| Year | Book chapter | Book | Link**
+----------|-------|------------|------|--------
+1.|2021|Status of production, availability and strategies for the promotion of organic inputs in India|Hi-tech production and pest management|[open access]()
+2.|2022|Mulch as a Resource Saving Technique in the Modern Agriculture|Advances in Climate-Smart Agriculture|[open access]()
 
-Sl. No.| Title | Year | Journal | Link
------------- | ------------- | ------------ | ------------- | -------------
-1. | Bearing fruit or falling flat? The story of contract farming in India | 2023 |  Agricultural Economics Research Review | [Open access](https://www.researchgate.net/publication/373277709_Bearing_fruit_or_falling_flat_The_story_of_contract_farming_in_India)
-2. | Improving the resilience of the agricultural sector to external shocks – The impact of the COVID-19 pandemic on the dairy industry with reference to India | 2023 | FAO Commodity and Trade Policy Research Working Paper, No. 57 | [Open access](https://www.fao.org/documents/card/en?details=cc8187en)
-3. | Understating Emerging Value Chains and Business Performance:Evidence from Dairy Industry in India | 2022 | Journal of Agribusiness in Developing and Emerging Economies | [Restricted access](https://doi.org/10.1108/JADEE-10-2022-0219)
-4. | Impact of COVID-19 on Onion Prices and Volatility across Spatially Separated Markets of India: Evidence from Regression Discontinuity Design | 2022 | Indian Journal of Economics and Development | [Restricted access](https://www.researchgate.net/publication/363892126_Impact_of_COVID-19_on_Onion_Prices_and_Volatility_across_Spatially_Separated_Markets_of_India_Evidence_from_Regression_Discontinuity_Design)
-5. | Anionic mineral mixture prevents milk fever and improves farmer income: evidence from a randomized controlled trial | 2022 | Agricultural Economics Research Review | [Open access](https://www.researchgate.net/publication/363661142_Anionic_mineral_mixture_prevents_milk_fever_and_improves_farmer_income_evidence_from_a_randomized_controlled_trial)
-6. | Do the prices of a preventive animal health product affect dairy farmers’ willingness to pay and product use? Evidence from an experimental study | 2022 | Journal of Behavioral and Experimental Economics | [Restricted access](https://doi.org/10.1016/j.socec.2022.101925)
-7. | COVID-19 induced lockdown effect on wheat supply chain and prices in India – Insights from state interventions led resilience | 2022 | Socio-Economic Planning Sciences | [Open access](https://www.sciencedirect.com/science/article/pii/S0038012122001616) 
-8. | Dairy infrastructure development index: measuring regional inequalities across districts of Gujarat | 2022 | Indian Journal of Dairy Science | [Open access](https://www.researchgate.net/publication/358978731_Dairy_infrastructure_development_index_measuring_regional_inequalities_across_districts_of_Gujarat)
-9. | An introduction to randomized evaluations and its application in agricultural economics | 2021 | Agricultural Economics Research Review | [Open access](https://www.researchgate.net/publication/359414869_An_introduction_to_randomized_evaluations_and_its_application_in_agricultural_economics)
-10. | COVID-19 induced lockdown effects on agricultural commodity prices and consumer behaviour in India – Implications for food loss and waste management | 2021 | Socio-Economic Planning Sciences | [Open access](https://www.sciencedirect.com/science/article/pii/S003801212100152X)
-11. | Contract Farming: Success Story of a Dairy Entrepreneur in Haryana| 2021 | Indian Dairyman | [Open access](https://www.researchgate.net/publication/353769653_Contract_Farming_Success_Story_of_a_Dairy_Entrepreneur_in_Haryana)
-12. | Impact of COVID-19 on the Indian agricultural system: A 10-point strategy for post-pandemic recovery | 2021 | Outlook on Agriculture | [Open access](https://journals.sagepub.com/doi/full/10.1177/0030727021989060)
-13. | Interlink between factor and product markets: opportunity for the future of Indian agriculture | 2020 | Agricultural Economics Research Review | [Open access](https://ageconsearch.umn.edu/record/310338?ln=en)
-14. | Choice of paddy marketing channel and its impact: evidence from Indian farm households | 2020 | Agricultural Economics Research Review | [Open access](https://ageconsearch.umn.edu/record/310324?ln=en)
-
-
-### More in [Google Scholar](https://scholar.google.co.in/citations?user=qMcgmwIAAAAJ&hl=en) ###
+### More in [Google Scholar](https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/psi1088.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=470) ###
