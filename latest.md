@@ -32,5 +32,8 @@ title: "Latest research"
 # 3. Bk chapters #
 **Sl. No.| Year | Book chapter | Book | Link**
 ----------|-------|------------|------|--------
-1.|2021|Changing dynamics of cropping pattern and constraints perceived by the vegetable growers in Himachal Pradesh|Indian Journal of Economics and Development|[open access](https://www.researchgate.net/publication/372907571_Changing_Dynamics_of_Cropping_Pattern_and_Constraints_Perceived_by_the_Vegetable_Growers_in_Himachal_Pradesh)
+1.|2021|Status of production, availability and strategies for the promotion of organic inputs in India|Hi-tech production and pest management|[open access]()
+2.|2022|Mulch as a Resource Saving Technique in the Modern Agriculture|Advances in Climate-Smart Agriculture|[open access]()
+
+
 ### More in [Google Scholar](https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/psi1088.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=470) ###
