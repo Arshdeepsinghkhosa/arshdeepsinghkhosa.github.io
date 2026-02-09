@@ -4,8 +4,8 @@ title: "Latest research"
 ---
 # 1. Research paper #
 
-Sl. No.| Year | Title | Outlet | Link
--------| ---- | ----- | ------ | ---
+**Sl. No.| Year | Book chapter | Book | Link**
+----------|-------|------------|------|--------
 1.|2021|Changing dynamics of cropping pattern and constraints perceived by the vegetable growers in Himachal Pradesh|Indian Journal of Economics and Development|[open access](https://www.researchgate.net/publication/372907571_Changing_Dynamics_of_Cropping_Pattern_and_Constraints_Perceived_by_the_Vegetable_Growers_in_Himachal_Pradesh)
 2.|2022|Economic viability of organic crops in Himachal Pradesh|Journal of Community Mobilization and Sustainable Development|[open access](https://www.indianjournals.com/ijor.aspx?target=ijor:jcmsd&volume=17&issue=1&article=011&type=pdf)
 3.|2022|Status of organic farming and economics of organic vegetable cultivation in Himachal Pradesh under Prampragat Krishi Vikas Yojana (PKVY)|Indian Journal of Hill Farming|[open access](http://www.icarneh.ernet.in/IAHF/volume_35%20issue%201%20June%202022/17..pdf)
