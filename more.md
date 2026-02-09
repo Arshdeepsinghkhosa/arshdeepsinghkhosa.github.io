@@ -7,7 +7,7 @@ title: "Research Resources"
 Sl. No | Data | Source | Link 
 ------------ | ------------- | ------------ | -------------
 1. | IMD climate data achiever | IMD | [Link](https://www.tropmet.res.in/Data%20Archival-51-Page)
-2. | Climate Data Portal | IIT Gandhinagar Portal |  [Link](https://cccr.tropmet.res.in/climate-data-portal.php)
+2. | Climate Data Portal | IIT Gandhinagar Portal | [Link](https://cccr.tropmet.res.in/climate-data-portal.php)
 3. | Socio-Economic Database Sources for Social Science Research – for Global, India, Indian States Perspectives | ISEC | [Link](https://www.isec.ac.in/database-sources-for-ssr/) 
 4. | Wholesale and retail prices of essential commodities | Ministry of Consumer  Affairs,  Food  and  Public  Distribution,  GoI and RPS, DES | [Link1](https://fcainfoweb.nic.in/reports/report_menu_web.aspx) [Link2](https://rpms.dacnet.nic.in/QueryReport.aspx)
 5. | Consumer Price Index | Ministry of Statistics and Programme Implementation , GoI | [Link](http://164.100.34.62:8080/Default1.aspx)
