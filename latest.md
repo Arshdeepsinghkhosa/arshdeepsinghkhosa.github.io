@@ -2,7 +2,7 @@
 layout: page
 title: "Latest research"
 ---
-# Research paper #
+# 1. Research paper #
 
 **Sl. No.| Year | Title | Outlet | Link**
 ----------|-------|--------|---------|--------
@@ -21,7 +21,7 @@ title: "Latest research"
 13.|2024|Examining the Impact of Climate Change on Cereal Production in India: Empirical evidence from ARDL modelling approach| Heliyon| [open access](https://doi.org/10.1016/j.heliyon.2024.e36403)
 14.|2024|Decomposition of Changing Maize Production Profile in Indian States| Indian Journal of Economics and Development| [open access](https://doi.org/10.35716/IJED-24094)
 15.|2025|Trends and determinants of total factor productivity in Potato: evidence from India| Agricultural Research Journal|[restricted access](https://www.indianjournals.com/ijor.aspx?target=ijor:jre&volume=62&issue=2&article=005)
-# Book chapters #
+# 2. Book chapters #
 
 **Sl. No.| Year | Book chapter | Book | Link**
 ----------|-------|------------|------|--------
