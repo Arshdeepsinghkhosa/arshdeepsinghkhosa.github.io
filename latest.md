@@ -29,11 +29,6 @@ title: "Latest research"
 2.|2022|Mulch as a Resource Saving Technique in the Modern Agriculture|Advances in Climate-Smart Agriculture|[open access]()
 
 
-# 3. Bk chapters #
-**Sl. No.| Year | Book chapter | Book | Link**
-----------|-------|------------|------|--------
-1.|2021|Status of production, availability and strategies for the promotion of organic inputs in India|Hi-tech production and pest management|[open access]()
-2.|2022|Mulch as a Resource Saving Technique in the Modern Agriculture|Advances in Climate-Smart Agriculture|[open access]()
 
 
 ### More in [Google Scholar](https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/psi1088.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=470) ###
