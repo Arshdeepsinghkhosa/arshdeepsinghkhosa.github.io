@@ -5,7 +5,8 @@ title: "Working papers"
 # Working papers #
 
 **Sl. No | Title | Data type | Variables | Methods | Status**
--------|-------|-------------|------------|---------|--------
+
+-------|-------|-------|-------|-------|-------
 
 1. | Assessing the impacts of climatic and technological factors on wheat production: Empirical evidence from India | Secondary | Climate, technological Variables and agriculture Inputs | ARDL, FMOLS, CCR, VDC, Impulse response function | under review
 2. | Carbon footprint of crop production in Punjab, India | Primary | Crop management practices and farm inputs | BSI and IPCC | under review
