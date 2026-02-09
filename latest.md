@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Year | Title | Journal | Link  
 -------| ---- | ----- | ------- | ---- 
-1. | Assessing the impacts of climatic and technological factors on wheat production: Empirical evidence from India | Secondary | Climate, technological Variables and agriculture Inputs | ARDL, FMOLS, CCR, VDC, Impulse response function | under review
+1. | 2021 | AChanging dynamics of cropping pattern and constraints perceived by the vegetable growers in Himachal Pradesh | Indian Journal of Economics and Development | [open access](https://www.researchgate.net/publication/372907571_Changing_Dynamics_of_Cropping_Pattern_and_Constraints_Perceived_by_the_Vegetable_Growers_in_Himachal_Pradesh)
 
 
 **Sl. No.| Year | Book chapter | Book | Link**
